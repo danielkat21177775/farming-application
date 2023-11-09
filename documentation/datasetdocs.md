@@ -2,7 +2,6 @@
 
 Doringrivier trust values its data. The aim of the organization to follow a data driven approach to farming.  This document describes all of the different datasets that is present on the farm. All of these datasets will be stored in one centralized database, which will hosted in the cloud.
 
-
 <h2>Outline</h2>
 
 **Doringrivier trust have the following datasets:**
@@ -14,32 +13,28 @@ Doringrivier trust values its data. The aim of the organization to follow a data
 
 <h3><u>The Irrigation dataset</u></h3>
 
-
 <p>The irrigation dataset describes the irrigation patterns on the farm.</p>
 
 <h3><u>The Spraying dataset</u></h3>
 
-
 <p>The spraying dataset contains all of the information that relates to spraying records on the farm.</p>
-
 
 <h3><u>The Vine dataset(s):</u></h3>
 
-The vine datasets contains information pertaining to vines planted on the farm. So for example any experiments done on the farm vines will be stored  in one of these datasets. 
+The vine datasets contains information pertaining to vines planted on the farm. So for example any experiments done on the farm vines will be stored  in one of these datasets.
 
 Each  of the vines  on our farm can be uniquely identified by the following factors:
 
 1. The block number
-
 2. The row number
-
 3. The vak (afrikaans word) it was planted in.
-
 4. The vine number
 
 <h4><strong>Row wise dataset</strong></h4>
 
-<h4><strong> wise dataset</strong></h4>
+![1699527697582](image/datasetdocs/1699527697582.png)
+
+`<h4><strong>` wise dataset `</strong></h4>`
 
 ## State
 
