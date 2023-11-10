@@ -30,17 +30,19 @@ Each  of the vines  on our farm can be uniquely identified by the following fact
 3. The vak (afrikaans word) it was planted in.
 4. The vine number
 
-
 <h3> <strong>Vine coordinate system</strong> </h3>
 
-Any vineyard will have the following components namely: blocks; columns; rows; sides; and vines. From this fact a coordinate system can be designed to map each vine on our farm. 
+Any vineyard will have the following components namely: blocks; columns; rows; sides; and vines. From this fact a coordinate system can be designed to map each vine on our farm.
 
 <h3> <strong>Blocks</strong> </h3>
 
-Blocks is large pieces of land with vines planted in a row wise fashion. Hopefully the following photo will illustrate what I mean by blocks.
+Blocks is large pieces of land with vines planted in a row wise fashion. Hopefully the following photo will illustrate what I mean by blocks. Each block contains a specify kultivar of table grapes that is planted on it. Each block is also given a numeric number. From the photo it is possible to read deduce each block's kultivar name and number. The borders of each block is indicated using yellow lines.
 
 ![1699553534572](image/datasetdocs/1699553534572.png)
 
-The following picture illustrates the coordinate system we use on our farm. The following picture illustrates the coordinate system that we have on our farm.  The picture will illustrate a block or vineyard of table grapes.  The lines that looks like train tracks is called rows. The $v1 , v2... vn$ notation illustrates the spaces between the rows where  each  of the vines is planted.
+
+<h3> <strong>Vine coordinate system</strong> </h3>
+
+I have to decided to create a coordinate system to uniquely identify each of the vines on our farm. This is done in order to do proper analysis of the data on our farm. The following picture illustrates the coordinate system that we have on our farm.  The picture will illustrate a block or vineyard of table grapes.  The lines that looks like train tracks is called rows. The $v1 , v2... vn$ notation illustrates the spaces between the rows where  each  of the vines is planted.
 
 ![1699552291131](image/datasetdocs/1699552291131.png)
